@@ -30,7 +30,7 @@ const songs = [
     {
         name: "metric-1",
         displayName: 'Front Row (Remix)',
-        artist: 'Metric/Jacinto Design',
+        artist: 'Jacinto Design',
     }
 ];
 
